@@ -27,4 +27,4 @@ Por ultimo los datos a modificar se presentaran por completo en un sub-formulari
 
 ![](imagenes/ventanModificar.jpg)
 
-El programa solo puede ser ejecutado a traves de un IDE ya que no cuenta con ejecutable, se recomienda usar el IDE NetBeans 8.2 o a traves de su ejecutable en la carpeta dist.
+El programa  puede ser ejecutado a traves de un IDE, fue probado correctamente en el IDE NetBeans 8.2 e IntelliJ IDEA Community Edition 2020.2.2 o tambien puede probarse traves de su ejecutable en la carpeta dist.
