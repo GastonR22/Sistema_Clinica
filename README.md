@@ -27,7 +27,4 @@ Por ultimo los datos a modificar se presentaran por completo en un sub-formulari
 
 ![](imagenes/ventanModificar.jpg)
 
-
-Para terminar en la carpeta dist encontran el ejecutable llamado CrudMvc.jar. También se incluyo la librería sqlite3 en caso de ejecutarse en un IDE.
-
-El ejecutable es un .jar por lo que se debe tener instalada la maquina virtual de java, Link:https://www.java.com/es/download/
+El programa solo puede ser ejecutado a traves de un IDE ya que no cuenta con ejecutable, fue probado correctamente con el IDE NetBeans 8.2
