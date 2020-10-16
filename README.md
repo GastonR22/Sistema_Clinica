@@ -1,6 +1,6 @@
 # Sistema-Clinica
 
-Sistema c.r.u.d de clínica desarrollado en NetBeans IDE 8.2, utilizando java, base de datos, tablas relacionales , sqlite3 y la libreria Commons Codec para el cifrado de contraseñas. Usando también la arquitectura modelo, vista , controlador o MVC.
+Sistema c.r.u.d de clínica desarrollado en NetBeans IDE 8.2, utilizando java, base de datos sql, tablas relacionales , sqlite3 y la libreria Commons Codec para el cifrado de contraseñas. Usando también la arquitectura modelo, vista , controlador o MVC.
 El proyecto consta con un login de inicio de sesión , una ventana principal que nos permite consultar la base de datos asi como también modificar, buscar y eliminar registros.
 Se han cargado ya algunos registros para comprobar el correcto funcionamiento del programa (los cuales pueden ser eliminados si lo desean), los datos utilizados no corresponden a personas reales, son solo de prueba.
 
